@@ -1,5 +1,5 @@
 # ola-copilot
 Repositório de treino
-# Objetivo:
-# Nome: Acacio Costa
-# Data 27/10/2026
+Objetivo: GitHub
+Nome: Acacio Costa
+Data 27/10/2026
